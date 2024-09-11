@@ -79,7 +79,7 @@ alerts:
     on-click: /light teleport %teleport-location%
   broadcast-punishments:
     enabled: true
-    message: '&cAntiCheat&r &f%name%&7 was punished for using forbdiden client modification.'
+    message: '&cAntiCheat&r &f%name%&7 was punished for using forbidden client modification.'
     # Broadcasts punishments of a player no more than 1 time in X ms
     cooldown: 0
     # Leave this field empty not to hover any text
@@ -692,7 +692,7 @@ checks:
           bedrock: true
     criticals:
       criticals_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 1
@@ -767,7 +767,7 @@ checks:
           min-tps: 17.0
           max-ping: 10000
           java: true
-          bedrock: true
+          bedrock: false
   # Interaction checks
   interaction:
     airplace:
