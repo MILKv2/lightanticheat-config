@@ -219,7 +219,7 @@ checks:
           punishment-vio: 30
           # The commands
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         # The setback feature
         setback:
           # If set to 'true', the player will be frozen on getting a violation
@@ -246,7 +246,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -261,7 +261,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -277,7 +277,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 16
@@ -292,7 +292,7 @@ checks:
           punishable: true
           punishment-vio: 35
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 18
@@ -307,7 +307,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -322,7 +322,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 16
@@ -337,7 +337,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 16
@@ -352,7 +352,7 @@ checks:
           punishable: true
           punishment-vio: 50
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 26
@@ -368,7 +368,7 @@ checks:
           punishable: true
           punishment-vio: 20
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 17
@@ -383,7 +383,7 @@ checks:
           punishable: true
           punishment-vio: 25
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 22
@@ -399,7 +399,7 @@ checks:
           punishable: true
           punishment-vio: 20
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 7
@@ -414,7 +414,7 @@ checks:
           punishable: true
           punishment-vio: 20
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 11
@@ -430,7 +430,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -445,7 +445,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -461,7 +461,7 @@ checks:
           punishable: true
           punishment-vio: 25
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 13
@@ -477,7 +477,7 @@ checks:
           punishable: true
           punishment-vio: 25
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 13
@@ -493,7 +493,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 4
@@ -509,7 +509,7 @@ checks:
           punishable: true
           punishment-vio: 35
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 18
@@ -525,7 +525,7 @@ checks:
           punishable: true
           punishment-vio: 35
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 18
@@ -541,7 +541,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -556,7 +556,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -571,7 +571,7 @@ checks:
           punishable: true
           punishment-vio: 12
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 10
@@ -587,7 +587,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 7
@@ -605,7 +605,7 @@ checks:
           punishable: true
           punishment-vio: 6
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 4
@@ -620,7 +620,7 @@ checks:
           punishable: true
           punishment-vio: 8
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 5
@@ -635,7 +635,7 @@ checks:
           punishable: true
           punishment-vio: 4
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 3
@@ -650,7 +650,7 @@ checks:
           punishable: true
           punishment-vio: 5
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
@@ -666,7 +666,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 6
@@ -681,7 +681,7 @@ checks:
           punishable: true
           punishment-vio: 6
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 4
@@ -697,7 +697,7 @@ checks:
           punishable: true
           punishment-vio: 1
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
@@ -712,7 +712,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
@@ -728,7 +728,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -743,7 +743,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -759,7 +759,7 @@ checks:
           punishable: true
           punishment-vio: 12
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 7
@@ -777,7 +777,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -793,7 +793,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: false
           setback-vio: 2
@@ -809,7 +809,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 6
@@ -824,7 +824,7 @@ checks:
           punishable: true
           punishment-vio: 5
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 3
@@ -840,7 +840,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -856,7 +856,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 8
@@ -872,7 +872,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 6
@@ -887,7 +887,7 @@ checks:
           punishable: true
           punishment-vio: 5
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 3
@@ -903,7 +903,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 6
@@ -918,7 +918,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 6
@@ -936,7 +936,7 @@ checks:
           punishable: true
           punishment-vio: 2
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
@@ -951,7 +951,7 @@ checks:
           punishable: true
           punishment-vio: 2
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
@@ -967,7 +967,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -982,7 +982,7 @@ checks:
           punishable: true
           punishment-vio: 3
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -998,7 +998,7 @@ checks:
           punishable: true
           punishment-vio: 5
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 4
@@ -1013,7 +1013,7 @@ checks:
           punishable: true
           punishment-vio: 20
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 19
@@ -1028,7 +1028,7 @@ checks:
           punishable: true
           punishment-vio: 15
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 14
@@ -1043,7 +1043,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 9
@@ -1061,7 +1061,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -1077,7 +1077,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 3
@@ -1095,7 +1095,7 @@ checks:
           punishable: true
           punishment-vio: 30
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 2
@@ -1111,7 +1111,7 @@ checks:
           punishable: true
           punishment-vio: 10
           commands:
-          - tempban %player% 1h &cUnfair advantage
+          - tempbanip %name% 1h &cUnfair advantage
         setback:
           setback: true
           setback-vio: 1
